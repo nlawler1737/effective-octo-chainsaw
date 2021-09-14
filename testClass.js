@@ -21,3 +21,7 @@ var Color=Color||(function () {
       }
    }
 })();
+
+function Log(input) {
+ console.log(input)  
+}
